@@ -408,3 +408,158 @@ template(80).name   = '1Y10'
 template(80).RValue = 162
 template(80).GValue = 118
 template(80).BValue = 93
+
+template(81).name= '2Y10'
+template(81).Rvalue= 156
+template(81).Gvalue= 119
+template(81).Bvalue= 93
+
+template(82).name= '3Y10'
+template(82).Rvalue= 155
+template(82).Gvalue= 119
+template(82).Bvalue= 93
+
+template(83).name= '4Y10'
+template(83).Rvalue= 152
+template(83).Gvalue= 121
+template(83).Bvalue= 93
+
+template(84).name= '3R11'
+template(84).Rvalue= 152
+template(84).Gvalue= 106
+template(84).Bvalue= 90
+
+template(85).name= '2R11'
+template(85).Rvalue= 152
+template(85).Gvalue= 107
+template(85).Bvalue= 84
+
+template(86).name= '1R11'
+template(86).Rvalue= 152
+template(86).Gvalue= 108
+template(86).Bvalue= 83
+
+template(87).name= '1Y11'
+template(87).Rvalue= 148
+template(87).Gvalue= 108
+template(87).Bvalue= 82
+
+template(88).name= '2Y11'
+template(88).Rvalue= 149
+template(88).Gvalue= 110
+template(88).Bvalue= 81
+
+template(89).name= '3Y11'
+template(89).Rvalue= 144
+template(89).Gvalue= 110
+template(89).Bvalue= 83
+
+template(90).name= '4Y11'
+template(90).Rvalue= 142
+template(90).Gvalue= 111
+template(90).Bvalue= 83
+
+template(91).name= '4Y11'
+template(91).Rvalue= 142
+template(91).Gvalue= 111
+template(91).Bvalue= 83
+
+template(92).name= '3R12'
+template(92).Rvalue= 137
+template(92).Gvalue= 96
+template(92).Bvalue= 78
+
+template(93).name= '2R12'
+template(93).Rvalue= 138
+template(93).Gvalue= 97
+template(93).Bvalue= 77
+
+template(94).name= '1R12'
+template(94).Rvalue= 135
+template(94).Gvalue= 97
+template(94).Bvalue= 74
+
+template(95).name= '1Y12'
+template(95).Rvalue= 135
+template(95).Gvalue= 97
+template(95).Bvalue= 74
+
+template(96).name= '2Y12'
+template(96).Rvalue= 136
+template(96).Gvalue= 100
+template(96).Bvalue= 76
+
+template(97).name= '3Y12'
+template(97).Rvalue= 132
+template(97).Gvalue= 100
+template(97).Bvalue= 75
+
+template(98).name= '3R13'
+template(98).Rvalue= 118
+template(98).Gvalue= 85
+template(98).Bvalue= 70
+
+template(99).name= '2R13'
+template(99).Rvalue= 119
+template(99).Gvalue= 86
+template(99).Bvalue= 69
+
+template(99).name= '1R13'
+template(99).Rvalue= 119
+template(99).Gvalue= 86
+template(99).Bvalue= 67
+
+template(100).name= '1Y13'
+template(100).Rvalue= 118
+template(100).Gvalue= 87
+template(100).Bvalue= 67
+
+template(101).name= '2Y13'
+template(101).Rvalue= 118
+template(101).Gvalue= 87
+template(101).Bvalue= 66
+
+template(102).name= '4R14'
+template(102).Rvalue= 101
+template(102).Gvalue= 74
+template(102).Bvalue= 65
+
+template(103).name= '3R14'
+template(103).Rvalue= 102
+template(103).Gvalue= 75
+template(103).Bvalue= 64
+
+template(104).name= '2R14'
+template(104).Rvalue= 102
+template(104).Gvalue= 75
+template(104).Bvalue= 64
+
+template(105).name= '1R14'
+template(105).Rvalue= 104
+template(105).Gvalue= 76
+template(105).Bvalue= 62
+
+template(106).name= '1Y14'
+template(106).Rvalue= 105
+template(106).Gvalue= 77
+template(106).Bvalue= 56
+
+template(107).name= '4R15'
+template(107).Rvalue= 86
+template(107).Gvalue= 67
+template(107).Bvalue= 60
+
+template(108).name= '3R15'
+template(108).Rvalue= 87
+template(108).Gvalue= 67
+template(108).Bvalue= 58
+
+template(109).name= '2R15'
+template(109).Rvalue= 87
+template(109).Gvalue= 65
+template(109).Bvalue= 54
+
+template(110).name= '1R15'
+template(110).Rvalue= 92
+template(110).Gvalue= 66
+template(110).Bvalue= 51
